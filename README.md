@@ -1,7 +1,7 @@
 # nba_playoffs_model
 Analysis to identify what leads to making the postseason in the NBA
 
-There is a lot of conventional wisdom about what leads to success in the NBA (defense wins championships, you need to stars, etc.)
+There is a lot of conventional wisdom about what leads to success in the NBA (defense wins championships, you need two stars, etc.)
 
 This is something I was curious to better understand and decided to do a bit of analysis to look into it further.
 
