@@ -1,0 +1,267 @@
+,Year,First,Second
+0,1969,New York Knicks,San Francisco Warriors
+1,1969,San Francisco Warriors,Boston Celtics
+2,1969,Boston Celtics,Boston Celtics
+3,1969,New York Knicks,Los Angeles Lakers
+4,1969,Chicago Bulls,Atlanta Hawks
+5,1970,New York Knicks,Boston Celtics
+6,1970,Baltimore Bullets,Atlanta Hawks
+7,1970,New York Knicks,Milwaukee Bucks
+8,1970,New York Knicks,Atlanta Hawks
+9,1970,Los Angeles Lakers,Chicago Bulls
+10,1971,New York Knicks,Boston Celtics
+11,1971,Baltimore Bullets,Phoenix Suns
+12,1971,San Francisco Warriors,Milwaukee Bucks
+13,1971,New York Knicks,Chicago Bulls
+14,1971,Los Angeles Lakers,Cincinnati Royals
+15,1972,New York Knicks,Phoenix Suns
+16,1972,Boston Celtics,Chicago Bulls
+17,1972,Los Angeles Lakers,Golden State Warriors
+18,1972,Los Angeles Lakers,Chicago Bulls
+19,1972,New York Knicks,Boston Celtics
+20,1972,Chicago Bulls,
+21,1973,New York Knicks,Phoenix Suns
+22,1973,Boston Celtics,Baltimore Bullets
+23,1973,Los Angeles Lakers,Golden State Warriors
+24,1973,Los Angeles Lakers,Chicago Bulls
+25,1973,New York Knicks,Boston Celtics
+26,1974,New York Knicks,Capital Bullets
+27,1974,Boston Celtics,Chicago Bulls
+28,1974,Milwaukee Bucks,Golden State Warriors
+29,1974,Chicago Bulls,Boston Celtics
+30,1974,New York Knicks,Phoenix Suns
+31,1974,Chicago Bulls,Los Angeles Lakers
+32,1975,Boston Celtics,Washington Bullets
+33,1975,Boston Celtics,Chicago Bulls
+34,1975,Milwaukee Bucks,Boston Celtics
+35,1975,Chicago Bulls,Chicago Bulls
+36,1975,New York Knicks,Boston Celtics
+37,1976,Boston Celtics,Cleveland Cavaliers
+38,1976,Boston Celtics,Golden State Warriors
+39,1976,Boston Celtics,Los Angeles Lakers
+40,1976,Chicago Bulls,Cleveland Cavaliers
+41,1976,Seattle SuperSonics,Golden State Warriors
+42,1977,Denver Nuggets,Cleveland Cavaliers
+43,1977,New Orleans Jazz,Golden State Warriors
+44,1977,Portland Trail Blazers,Los Angeles Lakers
+45,1977,Indiana Pacers,Kansas City Kings
+46,1977,Chicago Bulls,Los Angeles Lakers
+47,1978,Denver Nuggets,Golden State Warriors
+48,1978,Portland Trail Blazers,Portland Trail Blazers
+49,1978,Portland Trail Blazers,Los Angeles Lakers
+50,1978,,Chicago Bulls
+51,1978,Portland Trail Blazers,Chicago Bulls
+52,1978,Phoenix Suns,Milwaukee Bucks
+53,1979,Philadelphia 76ers,Portland Trail Blazers
+54,1979,Washington Bullets,Detroit Pistons
+55,1979,Los Angeles Lakers,Houston Rockets
+56,1979,Seattle SuperSonics,Portland Trail Blazers
+57,1979,Phoenix Suns,Atlanta Hawks
+58,1980,Philadelphia 76ers,Kansas City Kings
+59,1980,Atlanta Hawks,Portland Trail Blazers
+60,1980,Los Angeles Lakers,Boston Celtics
+61,1980,Seattle SuperSonics,Milwaukee Bucks
+62,1980,Phoenix Suns,Atlanta Hawks
+63,1980,New York Knicks,
+64,1981,Philadelphia 76ers,Atlanta Hawks
+65,1981,Philadelphia 76ers,Portland Trail Blazers
+66,1981,Los Angeles Lakers,San Antonio Spurs
+67,1981,Phoenix Suns,Milwaukee Bucks
+68,1981,New York Knicks,Indiana Pacers
+69,1981,Los Angeles Lakers,
+70,1982,Philadelphia 76ers,Boston Celtics
+71,1982,Atlanta Hawks,Seattle SuperSonics
+72,1982,Philadelphia 76ers,Seattle SuperSonics
+73,1982,Los Angeles Lakers,Milwaukee Bucks
+74,1982,Phoenix Suns,Milwaukee Bucks
+75,1983,Philadelphia 76ers,Boston Celtics
+76,1983,Atlanta Hawks,Boston Celtics
+77,1983,Philadelphia 76ers,Atlanta Hawks
+78,1983,Milwaukee Bucks,Los Angeles Lakers
+79,1983,Phoenix Suns,Denver Nuggets
+80,1983,Philadelphia 76ers,
+81,1984,Philadelphia 76ers,Boston Celtics
+82,1984,Los Angeles Lakers,Atlanta Hawks
+83,1984,Atlanta Hawks,Los Angeles Lakers
+84,1984,Philadelphia 76ers,Boston Celtics
+85,1984,Milwaukee Bucks,Denver Nuggets
+86,1985,Milwaukee Bucks,Philadelphia 76ers
+87,1985,Milwaukee Bucks,Seattle SuperSonics
+88,1985,Utah Jazz,Houston Rockets
+89,1985,Los Angeles Lakers,Boston Celtics
+90,1985,Philadelphia 76ers,Denver Nuggets
+91,1986,Milwaukee Bucks,Los Angeles Lakers
+92,1986,Boston Celtics,Denver Nuggets
+93,1986,Utah Jazz,Washington Bullets
+94,1986,Milwaukee Bucks,San Antonio Spurs
+95,1986,Philadelphia 76ers,Boston Celtics
+96,1987,Boston Celtics,Milwaukee Bucks
+97,1987,Los Angeles Lakers,Houston Rockets
+98,1987,Houston Rockets,Utah Jazz
+99,1987,San Antonio Spurs,Philadelphia 76ers
+100,1987,Boston Celtics,Dallas Mavericks
+101,1988,Boston Celtics,New Jersey Nets
+102,1988,Houston Rockets,Utah Jazz
+103,1988,Houston Rockets,Utah Jazz
+104,1988,,New York Knicks
+105,1988,Los Angeles Lakers,San Antonio Spurs
+106,1988,Chicago Bulls,Denver Nuggets
+107,1989,Detroit Pistons,Boston Celtics
+108,1989,Cleveland Cavaliers,Los Angeles Lakers
+109,1989,Utah Jazz,New York Knicks
+110,1989,Chicago Bulls,Utah Jazz
+111,1989,Detroit Pistons,San Antonio Spurs
+112,1990,Detroit Pistons,Boston Celtics
+113,1990,Portland Trail Blazers,Philadelphia 76ers
+114,1990,Houston Rockets,San Antonio Spurs
+115,1990,Chicago Bulls,Dallas Mavericks
+116,1990,Detroit Pistons,Milwaukee Bucks
+117,1991,Chicago Bulls,Detroit Pistons
+118,1991,Milwaukee Bucks,Utah Jazz
+119,1991,San Antonio Spurs,Houston Rockets
+120,1991,Detroit Pistons,Chicago Bulls
+121,1991,Portland Trail Blazers,Phoenix Suns
+122,1992,Detroit Pistons,Cleveland Cavaliers
+123,1992,Chicago Bulls,Portland Trail Blazers
+124,1992,San Antonio Spurs,New York Knicks
+125,1992,Chicago Bulls,Utah Jazz
+126,1992,Detroit Pistons,Indiana Pacers
+127,1993,Chicago Bulls,Chicago Bulls
+128,1993,Detroit Pistons,Cleveland Cavaliers
+129,1993,Houston Rockets,San Antonio Spurs
+130,1993,Chicago Bulls,Phoenix Suns
+131,1993,Detroit Pistons,New York Knicks
+132,1994,Chicago Bulls,San Antonio Spurs
+133,1994,New York Knicks,Chicago Bulls
+134,1994,Houston Rockets,San Antonio Spurs
+135,1994,Seattle SuperSonics,Seattle SuperSonics
+136,1994,Atlanta Hawks,Golden State Warriors
+137,1995,Chicago Bulls,Orlando Magic
+138,1995,San Antonio Spurs,Indiana Pacers
+139,1995,San Antonio Spurs,Denver Nuggets
+140,1995,Seattle SuperSonics,Utah Jazz
+141,1995,Atlanta Hawks,Seattle SuperSonics
+142,1996,Chicago Bulls,Orlando Magic
+143,1996,Chicago Bulls,Indiana Pacers
+144,1996,San Antonio Spurs,Houston Rockets
+145,1996,Seattle SuperSonics,Atlanta Hawks
+146,1996,Chicago Bulls,Cleveland Cavaliers
+147,1997,Chicago Bulls,Charlotte Hornets
+148,1997,Utah Jazz,Miami Heat
+149,1997,Atlanta Hawks,Houston Rockets
+150,1997,Chicago Bulls,Atlanta Hawks
+151,1997,Seattle SuperSonics,Utah Jazz
+152,1998,Chicago Bulls,San Antonio Spurs
+153,1998,Utah Jazz,New York Knicks
+154,1998,Atlanta Hawks,San Antonio Spurs
+155,1998,Seattle SuperSonics,Atlanta Hawks
+156,1998,Chicago Bulls,Los Angeles Lakers
+157,1999,San Antonio Spurs,Miami Heat
+158,1999,Phoenix Suns,Philadelphia 76ers
+159,1999,Miami Heat,Atlanta Hawks
+160,1999,Seattle SuperSonics,Atlanta Hawks
+161,1999,Utah Jazz,Charlotte Hornets
+162,1999,Houston Rockets,
+163,2000,San Antonio Spurs,Portland Trail Blazers
+164,2000,Minnesota Timberwolves,Phoenix Suns
+165,2000,Miami Heat,Los Angeles Lakers
+166,2000,Seattle SuperSonics,Charlotte Hornets
+167,2000,Los Angeles Lakers,Phoenix Suns
+168,2001,San Antonio Spurs,Miami Heat
+169,2001,Minnesota Timberwolves,Charlotte Hornets
+170,2001,Philadelphia 76ers,Los Angeles Lakers
+171,2001,Seattle SuperSonics,Los Angeles Lakers
+172,2001,Phoenix Suns,Sacramento Kings
+173,2002,San Antonio Spurs,San Antonio Spurs
+174,2002,Minnesota Timberwolves,Detroit Pistons
+175,2002,Detroit Pistons,Philadelphia 76ers
+176,2002,Seattle SuperSonics,Los Angeles Lakers
+177,2002,New Jersey Nets,Sacramento Kings
+178,2003,San Antonio Spurs,Indiana Pacers
+179,2003,Minnesota Timberwolves,San Antonio Spurs
+180,2003,Detroit Pistons,Los Angeles Lakers
+181,2003,Sacramento Kings,New Jersey Nets
+182,2003,Los Angeles Lakers,Philadelphia 76ers
+183,2004,Indiana Pacers,Utah Jazz
+184,2004,Minnesota Timberwolves,San Antonio Spurs
+185,2004,Detroit Pistons,Portland Trail Blazers
+186,2004,San Antonio Spurs,Sacramento Kings
+187,2004,Los Angeles Lakers,New Jersey Nets
+188,2005,Detroit Pistons,Detroit Pistons
+189,2005,Minnesota Timberwolves,Denver Nuggets
+190,2005,San Antonio Spurs,Detroit Pistons
+191,2005,San Antonio Spurs,Utah Jazz
+192,2005,Washington Wizards,New Jersey Nets
+193,2005,,Miami Heat
+194,2006,San Antonio Spurs,San Antonio Spurs
+195,2006,Detroit Pistons,Detroit Pistons
+196,2006,Utah Jazz,Minnesota Timberwolves
+197,2006,Sacramento Kings,Denver Nuggets
+198,2006,Los Angeles Lakers,Detroit Pistons
+199,2006,New Jersey Nets,
+200,2007,San Antonio Spurs,Chicago Bulls
+201,2007,San Antonio Spurs,Chicago Bulls
+202,2007,Denver Nuggets,New Jersey Nets
+203,2007,Los Angeles Lakers,Detroit Pistons
+204,2007,Phoenix Suns,Minnesota Timberwolves
+205,2008,Boston Celtics,Houston Rockets
+206,2008,Los Angeles Lakers,New Orleans Hornets
+207,2008,Denver Nuggets,Orlando Magic
+208,2008,San Antonio Spurs,Detroit Pistons
+209,2008,San Antonio Spurs,Phoenix Suns
+210,2009,Orlando Magic,San Antonio Spurs
+211,2009,Los Angeles Lakers,Miami Heat
+212,2009,Cleveland Cavaliers,Boston Celtics
+213,2009,New Orleans Hornets,Houston Rockets
+214,2009,Boston Celtics,Houston Rockets
+215,2010,Orlando Magic,San Antonio Spurs
+216,2010,Boston Celtics,Miami Heat
+217,2010,Cleveland Cavaliers,Atlanta Hawks
+218,2010,Los Angeles Lakers,Cleveland Cavaliers
+219,2010,Charlotte Bobcats,Oklahoma City Thunder
+220,2011,Orlando Magic,Memphis Grizzlies
+221,2011,Boston Celtics,New Orleans Hornets
+222,2011,Miami Heat,Dallas Mavericks
+223,2011,Los Angeles Lakers,Philadelphia 76ers
+224,2011,Boston Celtics,Chicago Bulls
+225,2012,Miami Heat,Boston Celtics
+226,2012,Oklahoma City Thunder,Chicago Bulls
+227,2012,Orlando Magic,New York Knicks
+228,2012,Los Angeles Clippers,Boston Celtics
+229,2012,Memphis Grizzlies,Los Angeles Lakers
+230,2013,Miami Heat,San Antonio Spurs
+231,2013,Oklahoma City Thunder,Indiana Pacers
+232,2013,New York Knicks,Memphis Grizzlies
+233,2013,Chicago Bulls,
+234,2013,Memphis Grizzlies,Boston Celtics
+235,2013,Los Angeles Clippers,Memphis Grizzlies
+236,2014,Chicago Bulls,Miami Heat
+237,2014,Indiana Pacers,Houston Rockets
+238,2014,Los Angeles Clippers,Chicago Bulls
+239,2014,Oklahoma City Thunder,San Antonio Spurs
+240,2014,Golden State Warriors,Indiana Pacers
+241,2015,San Antonio Spurs,New Orleans Pelicans
+242,2015,Golden State Warriors,Chicago Bulls
+243,2015,Memphis Grizzlies,Golden State Warriors
+244,2015,Los Angeles Clippers,Washington Wizards
+245,2015,Los Angeles Clippers,San Antonio Spurs
+246,2016,San Antonio Spurs,Atlanta Hawks
+247,2016,Golden State Warriors,Indiana Pacers
+248,2016,Los Angeles Clippers,Miami Heat
+249,2016,Boston Celtics,Memphis Grizzlies
+250,2016,Los Angeles Clippers,Chicago Bulls
+251,2017,Golden State Warriors,Memphis Grizzlies
+252,2017,Utah Jazz,San Antonio Spurs
+253,2017,San Antonio Spurs,New Orleans Pelicans
+254,2017,Los Angeles Clippers,Oklahoma City Thunder
+255,2017,Houston Rockets,Milwaukee Bucks
+256,2018,Utah Jazz,Philadelphia 76ers
+257,2018,New Orleans Pelicans,Golden State Warriors
+258,2018,Indiana Pacers,Boston Celtics
+259,2018,New Orleans Pelicans,San Antonio Spurs
+260,2018,Philadelphia 76ers,Minnesota Timberwolves
+261,2019,Utah Jazz,New Orleans Pelicans
+262,2019,Oklahoma City Thunder,Golden State Warriors
+263,2019,Milwaukee Bucks,Philadelphia 76ers
+264,2019,Boston Celtics,Golden State Warriors
+265,2019,Milwaukee Bucks,Toronto Raptors

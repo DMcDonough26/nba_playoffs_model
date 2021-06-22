@@ -1,0 +1,367 @@
+,First,Second,Third,Year
+0,Philadelphia Warriors,Providence Steamrollers,,1947
+1,Washington Capitols,Cleveland Rebels,,1947
+2,Detroit Falcons,St. Louis Bombers,,1947
+3,Washington Capitols,Chicago Stags,,1947
+4,Chicago Stags,Washington Capitols,,1947
+5,Philadelphia Warriors,St. Louis Bombers,,1948
+6,Chicago Stags,New York Knicks,,1948
+7,Boston Celtics,Chicago Stags,,1948
+8,Philadelphia Warriors,Washington Capitols,,1948
+9,Washington Capitols,Baltimore Bullets,,1948
+10,Minneapolis Lakers,Rochester Royals,,1949
+11,Philadelphia Warriors,Washington Capitols,,1949
+12,Rochester Royals,Washington Capitols,,1949
+13,Chicago Stags,Providence Steamrollers,,1949
+14,Minneapolis Lakers,St. Louis Bombers,,1949
+15,Minneapolis Lakers,Anderson Packers,,1950
+16,Minneapolis Lakers,Fort Wayne Pistons,,1950
+17,Indianapolis Olympians,Syracuse Nationals,,1950
+18,Rochester Royals,Syracuse Nationals,,1950
+19,Chicago Stags,Indianapolis Olympians,,1950
+20,Minneapolis Lakers,Syracuse Nationals,,1951
+21,Indianapolis Olympians,Tri-Cities Blackhawks,,1951
+22,Boston Celtics,Minneapolis Lakers,,1951
+23,Rochester Royals,Philadelphia Warriors,,1951
+24,Indianapolis Olympians,New York Knicks,,1951
+25,Minneapolis Lakers,Fort Wayne Pistons,,1952
+26,Boston Celtics,Minneapolis Lakers,,1952
+27,Philadelphia Warriors,Minneapolis Lakers,,1952
+28,Boston Celtics,Rochester Royals,,1952
+29,Rochester Royals,Philadelphia Warriors,,1952
+30,Syracuse Nationals,,,1952
+31,Minneapolis Lakers,Boston Celtics,,1953
+32,Boston Celtics,Minneapolis Lakers,,1953
+33,Philadelphia Warriors,Rochester Royals,,1953
+34,Boston Celtics,Rochester Royals,,1953
+35,Syracuse Nationals,Philadelphia Warriors,,1953
+36,Boston Celtics,Boston Celtics,,1954
+37,Philadelphia Warriors,Minneapolis Lakers,,1954
+38,Minneapolis Lakers,New York Knicks,,1954
+39,Syracuse Nationals,Rochester Royals,,1954
+40,New York Knicks,Syracuse Nationals,,1954
+41,Philadelphia Warriors,Minneapolis Lakers,,1955
+42,Boston Celtics,New York Knicks,,1955
+43,Syracuse Nationals,Syracuse Nationals,,1955
+44,Milwaukee Hawks,Minneapolis Lakers,,1955
+45,Fort Wayne Pistons,Boston Celtics,,1955
+0,St. Louis Hawks,Syracuse Nationals,,1956
+1,Philadelphia Warriors,Rochester Royals,,1956
+2,Philadelphia Warriors,Minneapolis Lakers,,1956
+3,Boston Celtics,Minneapolis Lakers,,1956
+4,Boston Celtics,Philadelphia Warriors,,1956
+5,Philadelphia Warriors,Fort Wayne Pistons,,1957
+6,Syracuse Nationals,Rochester Royals,,1957
+7,St. Louis Hawks,Philadelphia Warriors,,1957
+8,Boston Celtics,Minneapolis Lakers,,1957
+9,Boston Celtics,St. Louis Hawks,,1957
+10,Syracuse Nationals,St. Louis Hawks,,1958
+11,Detroit Pistons,Cincinnati Royals,,1958
+12,St. Louis Hawks,Boston Celtics,,1958
+13,Boston Celtics,Philadelphia Warriors,,1958
+14,Boston Celtics,St. Louis Hawks,,1958
+15,St. Louis Hawks,Philadelphia Warriors,,1959
+16,Minneapolis Lakers,St. Louis Hawks,,1959
+17,Boston Celtics,Syracuse Nationals,,1959
+18,Boston Celtics,St. Louis Hawks,,1959
+19,Boston Celtics,New York Knicks,,1959
+20,St. Louis Hawks,Cincinnati Royals,,1960
+21,Minneapolis Lakers,Syracuse Nationals,,1960
+22,Philadelphia Warriors,Boston Celtics,,1960
+23,Boston Celtics,New York Knicks,,1960
+24,Detroit Pistons,Boston Celtics,,1960
+25,Los Angeles Lakers,Syracuse Nationals,,1961
+26,St. Louis Hawks,Boston Celtics,,1961
+27,Philadelphia Warriors,Boston Celtics,,1961
+28,Boston Celtics,Syracuse Nationals,,1961
+29,Cincinnati Royals,Detroit Pistons,,1961
+30,St. Louis Hawks,Boston Celtics,,1962
+31,Los Angeles Lakers,Cincinnati Royals,,1962
+32,Philadelphia Warriors,Boston Celtics,,1962
+33,Los Angeles Lakers,New York Knicks,,1962
+34,Cincinnati Royals,Boston Celtics,,1962
+35,Los Angeles Lakers,Boston Celtics,,1963
+36,St. Louis Hawks,Detroit Pistons,,1963
+37,Boston Celtics,San Francisco Warriors,,1963
+38,Cincinnati Royals,Boston Celtics,,1963
+39,Los Angeles Lakers,Syracuse Nationals,,1963
+40,Los Angeles Lakers,Boston Celtics,,1964
+41,St. Louis Hawks,Cincinnati Royals,,1964
+42,San Francisco Warriors,Boston Celtics,,1964
+43,Cincinnati Royals,Boston Celtics,,1964
+44,Los Angeles Lakers,Philadelphia 76ers,,1964
+45,Los Angeles Lakers,St. Louis Hawks,,1965
+46,Cincinnati Royals,Baltimore Bullets,,1965
+47,Boston Celtics,Philadelphia 76ers,,1965
+48,Cincinnati Royals,Boston Celtics,,1965
+49,Los Angeles Lakers,Philadelphia 76ers,,1965
+50,San Francisco Warriors,Boston Celtics,,1966
+51,Cincinnati Royals,Baltimore Bullets,,1966
+52,Philadelphia 76ers,Boston Celtics,,1966
+53,Cincinnati Royals,Boston Celtics,,1966
+54,Los Angeles Lakers,Philadelphia 76ers,,1966
+55,San Francisco Warriors,New York Knicks,,1967
+56,Los Angeles Lakers,Cincinnati Royals,,1967
+57,Philadelphia 76ers,Boston Celtics,,1967
+58,Los Angeles Lakers,Philadelphia 76ers,,1967
+59,Cincinnati Royals,Boston Celtics,,1967
+60,Los Angeles Lakers,New York Knicks,,1968
+61,Cincinnati Royals,Boston Celtics,,1968
+62,Philadelphia 76ers,Boston Celtics,,1968
+63,Detroit Pistons,Philadelphia 76ers,,1968
+64,Cincinnati Royals,Los Angeles Lakers,,1968
+65,Philadelphia 76ers,Boston Celtics,,1969
+66,Los Angeles Lakers,New York Knicks,,1969
+67,Baltimore Bullets,New York Knicks,,1969
+68,Baltimore Bullets,Philadelphia 76ers,,1969
+69,Cincinnati Royals,Los Angeles Lakers,,1969
+70,Philadelphia 76ers,Boston Celtics,,1970
+71,Phoenix Suns,Baltimore Bullets,,1970
+72,New York Knicks,Milwaukee Bucks,,1970
+73,Los Angeles Lakers,Atlanta Hawks,,1970
+74,New York Knicks,Cincinnati Royals,,1970
+75,Boston Celtics,Baltimore Bullets,,1971
+76,Philadelphia 76ers,Chicago Bulls,,1971
+77,Milwaukee Bucks,New York Knicks,,1971
+78,Los Angeles Lakers,New York Knicks,,1971
+79,Detroit Pistons,Milwaukee Bucks,,1971
+80,Boston Celtics,Chicago Bulls,,1972
+81,Seattle SuperSonics,Philadelphia 76ers,,1972
+82,Milwaukee Bucks,Los Angeles Lakers,,1972
+83,Los Angeles Lakers,Cincinnati Royals,,1972
+84,New York Knicks,Baltimore Bullets,,1972
+85,Boston Celtics,Baltimore Bullets,,1973
+86,Seattle SuperSonics,Golden State Warriors,,1973
+87,Milwaukee Bucks,Boston Celtics,,1973
+88,Kansas City-Omaha Kings,New York Knicks,,1973
+89,Los Angeles Lakers,Atlanta Hawks,,1973
+90,Boston Celtics,Capital Bullets,,1974
+91,Golden State Warriors,Seattle SuperSonics,,1974
+92,Milwaukee Bucks,Buffalo Braves,,1974
+93,New York Knicks,Detroit Pistons,,1974
+94,Los Angeles Lakers,Chicago Bulls,,1974
+95,Golden State Warriors,Boston Celtics,,1975
+96,Washington Bullets,Seattle SuperSonics,,1975
+97,Buffalo Braves,Boston Celtics,,1975
+98,Kansas City-Omaha Kings,Washington Bullets,,1975
+99,New York Knicks,Boston Celtics,,1975
+100,Golden State Warriors,Washington Bullets,,1976
+101,Philadelphia 76ers,Boston Celtics,,1976
+102,Los Angeles Lakers,Boston Celtics,,1976
+103,Kansas City Kings,Buffalo Braves,,1976
+104,New Orleans Jazz,Golden State Warriors,,1976
+105,Washington Bullets,Philadelphia 76ers,,1977
+106,Denver Nuggets,Philadelphia 76ers,,1977
+107,Los Angeles Lakers,Portland Trail Blazers,,1977
+108,New Orleans Jazz,San Antonio Spurs,,1977
+109,Phoenix Suns,Boston Celtics,,1977
+110,New Orleans Jazz,Phoenix Suns,,1978
+111,Philadelphia 76ers,Portland Trail Blazers,,1978
+112,Portland Trail Blazers,Los Angeles Lakers,,1978
+113,San Antonio Spurs,Phoenix Suns,,1978
+114,Denver Nuggets,New Orleans Jazz,,1978
+115,Milwaukee Bucks,Phoenix Suns,,1979
+116,Washington Bullets,Washington Bullets,,1979
+117,Houston Rockets,Los Angeles Lakers,,1979
+118,San Antonio Spurs,San Diego Clippers,,1979
+119,Phoenix Suns,Kansas City Kings,,1979
+120,Philadelphia 76ers,Atlanta Hawks,,1980
+121,Boston Celtics,Milwaukee Bucks,,1980
+122,Los Angeles Lakers,Houston Rockets,,1980
+123,San Antonio Spurs,Seattle SuperSonics,,1980
+124,Phoenix Suns,Seattle SuperSonics,,1980
+125,Philadelphia 76ers,Milwaukee Bucks,,1981
+126,Boston Celtics,Utah Jazz,,1981
+127,Los Angeles Lakers,Houston Rockets,,1981
+128,San Antonio Spurs,Kansas City Kings,,1981
+129,Phoenix Suns,Boston Celtics,,1981
+130,Boston Celtics,Denver Nuggets,,1982
+131,Philadelphia 76ers,Golden State Warriors,,1982
+132,Houston Rockets,Boston Celtics,,1982
+133,San Antonio Spurs,Los Angeles Lakers,,1982
+134,Seattle SuperSonics,Milwaukee Bucks,,1982
+135,Boston Celtics,Denver Nuggets,,1983
+136,Philadelphia 76ers,New Jersey Nets,,1983
+137,Philadelphia 76ers,Los Angeles Lakers,,1983
+138,Los Angeles Lakers,San Antonio Spurs,,1983
+139,Milwaukee Bucks,Detroit Pistons,,1983
+140,Boston Celtics,Utah Jazz,,1984
+141,New York Knicks,Philadelphia 76ers,,1984
+142,Los Angeles Lakers,Philadelphia 76ers,,1984
+143,Los Angeles Lakers,Milwaukee Bucks,,1984
+144,Detroit Pistons,Portland Trail Blazers,,1984
+145,Boston Celtics,Milwaukee Bucks,,1985
+146,New York Knicks,Houston Rockets,,1985
+147,Philadelphia 76ers,Los Angeles Lakers,,1985
+148,Los Angeles Lakers,Chicago Bulls,,1985
+149,Detroit Pistons,Milwaukee Bucks,,1985
+150,Boston Celtics,Philadelphia 76ers,,1986
+151,Atlanta Hawks,Denver Nuggets,,1986
+152,Los Angeles Lakers,Houston Rockets,,1986
+153,Los Angeles Lakers,Milwaukee Bucks,,1986
+154,Detroit Pistons,San Antonio Spurs,,1986
+155,Boston Celtics,Atlanta Hawks,,1987
+156,Boston Celtics,Philadelphia 76ers,,1987
+157,Houston Rockets,Washington Bullets,,1987
+158,Los Angeles Lakers,Detroit Pistons,,1987
+159,Chicago Bulls,Denver Nuggets,,1987
+160,Boston Celtics,Utah Jazz,,1988
+161,Philadelphia 76ers,Atlanta Hawks,,1988
+162,Houston Rockets,New York Knicks,,1988
+163,Chicago Bulls,Portland Trail Blazers,,1988
+164,Los Angeles Lakers,Utah Jazz,,1988
+0,Utah Jazz,Phoenix Suns,Atlanta Hawks,1989
+1,Philadelphia 76ers,Golden State Warriors,Milwaukee Bucks,1989
+2,Houston Rockets,New York Knicks,Boston Celtics,1989
+3,Chicago Bulls,Utah Jazz,Seattle SuperSonics,1989
+4,Los Angeles Lakers,Phoenix Suns,Cleveland Cavaliers,1989
+5,Utah Jazz,Boston Celtics,Los Angeles Lakers,1990
+6,Philadelphia 76ers,Phoenix Suns,Golden State Warriors,1990
+7,New York Knicks,Houston Rockets,San Antonio Spurs,1990
+8,Los Angeles Lakers,Utah Jazz,Portland Trail Blazers,1990
+9,Chicago Bulls,Phoenix Suns,Detroit Pistons,1990
+10,Utah Jazz,Atlanta Hawks,Los Angeles Lakers,1991
+11,Philadelphia 76ers,Golden State Warriors,Washington Bullets,1991
+12,San Antonio Spurs,New York Knicks,Houston Rockets,1991
+13,Chicago Bulls,Phoenix Suns,Utah Jazz,1991
+14,Los Angeles Lakers,Portland Trail Blazers,Detroit Pistons,1991
+15,Utah Jazz,Chicago Bulls,Detroit Pistons,1992
+16,Golden State Warriors,Philadelphia 76ers,Atlanta Hawks,1992
+17,San Antonio Spurs,New York Knicks,Cleveland Cavaliers,1992
+18,Chicago Bulls,Golden State Warriors,Cleveland Cavaliers,1992
+19,Portland Trail Blazers,Utah Jazz,Phoenix Suns,1992
+20,Phoenix Suns,Atlanta Hawks,Chicago Bulls,1993
+21,Utah Jazz,Charlotte Hornets,New Jersey Nets,1993
+22,Houston Rockets,New York Knicks,San Antonio Spurs,1993
+23,Chicago Bulls,Utah Jazz,Golden State Warriors,1993
+24,Cleveland Cavaliers,Detroit Pistons,New Jersey Nets,1993
+25,Chicago Bulls,Seattle SuperSonics,New Jersey Nets,1994
+26,Utah Jazz,Phoenix Suns,Los Angeles Clippers,1994
+27,Houston Rockets,San Antonio Spurs,Orlando Magic,1994
+28,Utah Jazz,Sacramento Kings,Cleveland Cavaliers,1994
+29,Golden State Warriors,Phoenix Suns,Seattle SuperSonics,1994
+30,Utah Jazz,Phoenix Suns,Seattle SuperSonics,1995
+31,Chicago Bulls,Seattle SuperSonics,San Antonio Spurs,1995
+32,San Antonio Spurs,Orlando Magic,Houston Rockets,1995
+33,Utah Jazz,Seattle SuperSonics,Indiana Pacers,1995
+34,Orlando Magic,Sacramento Kings,Houston Rockets,1995
+35,Chicago Bulls,Seattle SuperSonics,Phoenix Suns,1996
+36,Utah Jazz,Detroit Pistons,Washington Bullets,1996
+37,San Antonio Spurs,Houston Rockets,Orlando Magic,1996
+38,Chicago Bulls,Seattle SuperSonics,Sacramento Kings,1996
+39,Orlando Magic,Utah Jazz,Indiana Pacers,1996
+40,Utah Jazz,Chicago Bulls,Charlotte Hornets,1997
+41,Detroit Pistons,Charlotte Hornets,Milwaukee Bucks,1997
+42,Houston Rockets,New York Knicks,Los Angeles Lakers,1997
+43,Chicago Bulls,Seattle SuperSonics,Utah Jazz,1997
+44,Miami Heat,Sacramento Kings,Orlando Magic,1997
+45,Utah Jazz,Detroit Pistons,Chicago Bulls,1998
+46,San Antonio Spurs,Seattle SuperSonics,Charlotte Hornets,1998
+47,Los Angeles Lakers,San Antonio Spurs,Atlanta Hawks,1998
+48,Chicago Bulls,Miami Heat,Sacramento Kings,1998
+49,Seattle SuperSonics,Washington Wizards,Indiana Pacers,1998
+50,Utah Jazz,Sacramento Kings,Minnesota Timberwolves,1999
+51,San Antonio Spurs,Detroit Pistons,Denver Nuggets,1999
+52,Miami Heat,Los Angeles Lakers,Houston Rockets,1999
+53,Philadelphia 76ers,Seattle SuperSonics,Los Angeles Lakers,1999
+54,Phoenix Suns,Miami Heat,Utah Jazz,1999
+55,San Antonio Spurs,Utah Jazz,Sacramento Kings,2000
+56,Minnesota Timberwolves,Detroit Pistons,Toronto Raptors,2000
+57,Los Angeles Lakers,Miami Heat,San Antonio Spurs,2000
+58,Phoenix Suns,Philadelphia 76ers,Charlotte Hornets,2000
+59,Seattle SuperSonics,Los Angeles Lakers,New Jersey Nets,2000
+60,San Antonio Spurs,Minnesota Timberwolves,Utah Jazz,2001
+61,Sacramento Kings,Toronto Raptors,Dallas Mavericks,2001
+62,Los Angeles Lakers,Philadelphia 76ers,San Antonio Spurs,2001
+63,Philadelphia 76ers,Los Angeles Lakers,Seattle SuperSonics,2001
+64,Phoenix Suns,Orlando Magic,Milwaukee Bucks,2001
+65,San Antonio Spurs,Minnesota Timberwolves,Detroit Pistons,2002
+66,Orlando Magic,Sacramento Kings,Indiana Pacers,2002
+67,Los Angeles Lakers,Dallas Mavericks,Philadelphia 76ers,2002
+68,New Jersey Nets,Seattle SuperSonics,Boston Celtics,2002
+69,Los Angeles Lakers,Philadelphia 76ers,Dallas Mavericks,2002
+70,San Antonio Spurs,Dallas Mavericks,Boston Celtics,2003
+71,Minnesota Timberwolves,Sacramento Kings,New Orleans Hornets,2003
+72,Los Angeles Lakers,Detroit Pistons,Indiana Pacers,2003
+73,Los Angeles Lakers,New Jersey Nets,Phoenix Suns,2003
+74,Orlando Magic,Philadelphia 76ers,Dallas Mavericks,2003
+75,Minnesota Timberwolves,Indiana Pacers,Dallas Mavericks,2004
+76,San Antonio Spurs,Sacramento Kings,Indiana Pacers,2004
+77,Los Angeles Lakers,Detroit Pistons,Houston Rockets,2004
+78,Los Angeles Lakers,Minnesota Timberwolves,Milwaukee Bucks,2004
+79,New Jersey Nets,Orlando Magic,New Orleans Hornets,2004
+80,San Antonio Spurs,Cleveland Cavaliers,Houston Rockets,2005
+81,Dallas Mavericks,Minnesota Timberwolves,Phoenix Suns,2005
+82,Miami Heat,Phoenix Suns,Detroit Pistons,2005
+83,Philadelphia 76ers,Miami Heat,Los Angeles Lakers,2005
+84,Phoenix Suns,Seattle SuperSonics,Washington Wizards,2005
+85,Cleveland Cavaliers,Los Angeles Clippers,Phoenix Suns,2006
+86,Dallas Mavericks,San Antonio Spurs,Denver Nuggets,2006
+87,Miami Heat,Detroit Pistons,Houston Rockets,2006
+88,Los Angeles Lakers,Detroit Pistons,Philadelphia 76ers,2006
+89,Phoenix Suns,Miami Heat,Washington Wizards,2006
+90,Dallas Mavericks,Cleveland Cavaliers,Minnesota Timberwolves,2007
+91,San Antonio Spurs,Toronto Raptors,Denver Nuggets,2007
+92,Phoenix Suns,Houston Rockets,Orlando Magic,2007
+93,Phoenix Suns,Washington Wizards,Miami Heat,2007
+94,Los Angeles Lakers,Houston Rockets,Detroit Pistons,2007
+95,Boston Celtics,Dallas Mavericks,Utah Jazz,2008
+96,Cleveland Cavaliers,San Antonio Spurs,Boston Celtics,2008
+97,Orlando Magic,Phoenix Suns,Houston Rockets,2008
+98,Los Angeles Lakers,Phoenix Suns,Houston Rockets,2008
+99,New Orleans Hornets,Utah Jazz,San Antonio Spurs,2008
+100,Dallas Mavericks,Boston Celtics,Los Angeles Lakers,2009
+101,Cleveland Cavaliers,San Antonio Spurs,Denver Nuggets,2009
+102,Orlando Magic,Houston Rockets,Phoenix Suns,2009
+103,Los Angeles Lakers,Portland Trail Blazers,Denver Nuggets,2009
+104,Miami Heat,New Orleans Hornets,San Antonio Spurs,2009
+105,Oklahoma City Thunder,Denver Nuggets,Los Angeles Lakers,2010
+106,Cleveland Cavaliers,Dallas Mavericks,San Antonio Spurs,2010
+107,Orlando Magic,Phoenix Suns,Milwaukee Bucks,2010
+108,Los Angeles Lakers,Utah Jazz,Atlanta Hawks,2010
+109,Miami Heat,Phoenix Suns,Portland Trail Blazers,2010
+110,Oklahoma City Thunder,Los Angeles Lakers,Portland Trail Blazers,2011
+111,Miami Heat,Dallas Mavericks,Memphis Grizzlies,2011
+112,Orlando Magic,New York Knicks,Atlanta Hawks,2011
+113,Los Angeles Lakers,Miami Heat,San Antonio Spurs,2011
+114,Chicago Bulls,Oklahoma City Thunder,New Orleans Hornets,2011
+115,Miami Heat,Minnesota Timberwolves,New York Knicks,2012
+116,Oklahoma City Thunder,Los Angeles Clippers,Dallas Mavericks,2012
+117,Orlando Magic,Los Angeles Lakers,New York Knicks,2012
+118,Los Angeles Lakers,San Antonio Spurs,Miami Heat,2012
+119,Los Angeles Clippers,Oklahoma City Thunder,Boston Celtics,2012
+120,Miami Heat,New York Knicks,Golden State Warriors,2013
+121,Oklahoma City Thunder,Los Angeles Clippers,Indiana Pacers,2013
+122,San Antonio Spurs,Memphis Grizzlies,Los Angeles Lakers,2013
+123,Los Angeles Lakers,San Antonio Spurs,Miami Heat,2013
+124,Los Angeles Clippers,Oklahoma City Thunder,Houston Rockets,2013
+125,Oklahoma City Thunder,Los Angeles Clippers,Indiana Pacers,2014
+126,Miami Heat,Minnesota Timberwolves,Portland Trail Blazers,2014
+127,Chicago Bulls,Houston Rockets,Charlotte Hornets,2014
+128,Houston Rockets,Golden State Warriors,Phoenix Suns,2014
+129,Los Angeles Clippers,San Antonio Spurs,Portland Trail Blazers,2014
+130,Cleveland Cavaliers,Portland Trail Blazers,Los Angeles Clippers,2015
+131,New Orleans Pelicans,Chicago Bulls,San Antonio Spurs,2015
+132,Memphis Grizzlies,Sacramento Kings,Los Angeles Clippers,2015
+133,Houston Rockets,Oklahoma City Thunder,Golden State Warriors,2015
+134,Golden State Warriors,Los Angeles Clippers,Cleveland Cavaliers,2015
+135,San Antonio Spurs,Oklahoma City Thunder,Indiana Pacers,2016
+136,Cleveland Cavaliers,Golden State Warriors,San Antonio Spurs,2016
+137,Los Angeles Clippers,Sacramento Kings,Detroit Pistons,2016
+138,Golden State Warriors,Portland Trail Blazers,Golden State Warriors,2016
+139,Oklahoma City Thunder,Los Angeles Clippers,Toronto Raptors,2016
+140,San Antonio Spurs,Golden State Warriors,Chicago Bulls,2017
+141,Cleveland Cavaliers,Milwaukee Bucks,Golden State Warriors,2017
+142,New Orleans Pelicans,Utah Jazz,Los Angeles Clippers,2017
+143,Houston Rockets,Golden State Warriors,Washington Wizards,2017
+144,Oklahoma City Thunder,Boston Celtics,Toronto Raptors,2017
+145,Golden State Warriors,San Antonio Spurs,Minnesota Timberwolves,2018
+146,Cleveland Cavaliers,Milwaukee Bucks,Oklahoma City Thunder,2018
+147,New Orleans Pelicans,Philadelphia 76ers,Minnesota Timberwolves,2018
+148,Houston Rockets,Toronto Raptors,Indiana Pacers,2018
+149,Portland Trail Blazers,Oklahoma City Thunder,Golden State Warriors,2018
+150,Milwaukee Bucks,Golden State Warriors,Detroit Pistons,2019
+151,Oklahoma City Thunder,Toronto Raptors,Los Angeles Lakers,2019
+152,Denver Nuggets,Philadelphia 76ers,Utah Jazz,2019
+153,Houston Rockets,Portland Trail Blazers,Oklahoma City Thunder,2019
+154,Golden State Warriors,Boston Celtics,Charlotte Hornets,2019
